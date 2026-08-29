@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/</loc>
-    <image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260829-WA4966.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260827-WA6533.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/DSC_0283b.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260829-WA6574.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260825-WA2660.jpg</image:loc></image:image>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/</loc>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/DSC_0283b.jpg</image:loc><image:title>Atlas Noir Valor</image:title></image:image>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/DSC_2206b%20(2).JPG</image:loc><image:title>Atlas Noir Valor</image:title></image:image>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/DSC_2220b%20(2).JPG</image:loc><image:title>Atlas Noir Valor</image:title></image:image>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260825-WA2660.jpg</image:loc><image:title>Atlas Noir Valor</image:title></image:image>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260825-WA4083.jpg</image:loc><image:title>Atlas Noir Valor</image:title></image:image>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260827-WA6533.jpg</image:loc><image:title>Atlas Noir Valor</image:title></image:image>
+<image:image><image:loc>https://ivanssebuufunasser-jpg.github.io/atlas-noir-valor/IMG-20260829-WA6574.jpg</image:loc><image:title>Atlas Noir Valor HD</image:title></image:image>
+</url>
 </urlset>
